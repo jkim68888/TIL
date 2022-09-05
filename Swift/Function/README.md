@@ -1,5 +1,7 @@
 # Function (함수)
 
+<div align="right">2022.09.04</div>
+
 ### Parameter (파라미터)
 
 > 매개변수/인자 라고도 부르며, 함수의 입력값(input)으로 사용되는 변수이다.
