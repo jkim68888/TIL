@@ -2,7 +2,9 @@
 
 ## CONTENTS
 
-- [Swift](./Swift/README.md)
+- Swift
+  - [Computed Properties](./Swift/ComputedProperties/README.md)
+  - [Lazy](./Swift/Lazy/README.md)
   - [Class와 Struct](./Swift/ClassAndStruct/README.md)
   - [Enum](./Swift/Enum/README.md)
   - [컬렉션](./Swift/Collection/README.md)
