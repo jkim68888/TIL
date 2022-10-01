@@ -29,6 +29,7 @@
 - IOS
   - [ARC](./IOS/ARC/README.md)
   - [강한 순환 참조](./IOS/StrongReferenceCycle/README.md)
+  - [Thread Safe](./IOS/ThreadSafe/README.md)
 
 <br/>
 
