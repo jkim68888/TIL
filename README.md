@@ -6,7 +6,7 @@
   <!-- - [싱글톤](./Swift/Singleton/README.md) -->
   <!-- - [캡쳐리스트](./Swift/CaptureList/README.md) -->
   <!-- - [클로저](./Swift/Closure/README.md) -->
-  <!-- - [타입캐스팅](./Swift/%08Typecasting/README.md) -->
+  - [타입캐스팅](./Swift/%08Typecasting/README.md)
   - [오버라이딩](./Swift/Overriding/README.md)
   - [상속](./Swift/Inheritance/README.md)
   - [속성 감시자](./Swift/PropertyObserver/README.md)
