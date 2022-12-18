@@ -23,11 +23,13 @@
 <br/>
 
 - CS
+  <!-- - [SOLID 원칙](./CS/SOLID/README.md) -->
   - [객체지향프로그래밍](./CS/OOP/README.md)
 
 <br/>
 
 - IOS
+  - [아키텍쳐 패턴 - 클린아키텍쳐, MVC, MVP, MVVM](./IOS/%08Architecture/README.md)
   - [ARC](./IOS/ARC/README.md)
   - [강한 순환 참조](./IOS/StrongReferenceCycle/README.md)
   - [Thread Safe](./IOS/ThreadSafe/README.md)
@@ -36,4 +38,3 @@
 
 - Algorithm
   - [시간복잡도](./Algorithm/TimeComplexity/README.md)
-  <!-- - [공간복잡도](./Algorithm/SpaceComplexity/README.md) -->
