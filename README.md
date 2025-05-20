@@ -28,7 +28,7 @@
 
 <br/>
 
-- IOS
+- iOS
   - [아키텍쳐 패턴 - 클린아키텍쳐, MVC, MVP, MVVM](./IOS/%08Architecture/README.md)
   - [ARC](./IOS/ARC/README.md)
   - [강한 순환 참조](./IOS/StrongReferenceCycle/README.md)
