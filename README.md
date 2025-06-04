@@ -9,7 +9,7 @@
 
 - Algorithm
   - [시간복잡도](./Algorithm/TimeComplexity/README.md)
-  - [이진탐색](./Algorithm/)
+  - [이진탐색](./Algorithm/BinarySearch/Readme.md)
 
 <br/>
 
