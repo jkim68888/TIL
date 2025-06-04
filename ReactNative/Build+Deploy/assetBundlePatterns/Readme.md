@@ -1,5 +1,9 @@
 # assetBundlePatterns
 
+<div align="right">2025.05.24</div>
+
+<br/>
+
 Expo 앱을 빌드할 때, 프로젝트 안에 있는 폰트/이미지/사운드 같은 리소스를 번들(앱 내부 패키지)로 포함할지 말지 결정하는 옵션입니다.
 
 ``` json

@@ -1,5 +1,9 @@
 # Recoil
 
+<div align="right">2025.05.20</div>
+
+<br/>
+
 Recoil은 Facebook에서 개발한 React 애플리케이션을 위한 상태 관리 라이브러리입니다. React의 내부 작동 방식과 호환되도록 설계되어 있으며, 복잡한 상태 관리와 비동기 데이터 처리에 최적화되어 있습니다.
 
 ## 1. Recoil의 핵심 개념

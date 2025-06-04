@@ -1,5 +1,9 @@
 # React Redux
 
+<div align="right">2025.05.20</div>
+
+<br/>
+
 React Redux는 React 애플리케이션에서 상태 관리를 위한 공식 Redux 바인딩 라이브러리입니다. 
 
 ## 1. Redux의 핵심 원칙

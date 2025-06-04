@@ -1,5 +1,9 @@
 # Context API
 
+<div align="right">2025.05.20</div>
+
+<br/>
+
 Context API는 React에서 제공하는 전역 상태 관리 도구입니다. 컴포넌트 트리에서 데이터를 "prop drilling" 없이 전달할 수 있게 해줍니다.
 
 ## Prop Drilling 문제

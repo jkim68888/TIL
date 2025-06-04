@@ -1,5 +1,9 @@
 # AppState
 
+<div align="right">2025.05.23</div>
+
+<br/>
+
 React Native의 AppState는 앱이 현재 어떤 상태에 있는지를 추적하고 상태 변화를 감지할 수 있게 해주는 API입니다.
 
 ## AppState의 세 가지 상태

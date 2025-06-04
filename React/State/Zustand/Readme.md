@@ -1,5 +1,9 @@
 # React Zustand
 
+<div align="right">2025.05.20</div>
+
+<br/>
+
 Zustand는 React 애플리케이션을 위한 경량 상태 관리 라이브러리입니다. Redux나 MobX와 같은 다른 상태 관리 라이브러리들과 비교했을 때, Zustand는 매우 간단하고 직관적인 API를 제공합니다.
 
 ## Zustand의 주요 특징

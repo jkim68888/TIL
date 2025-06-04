@@ -1,5 +1,7 @@
 # 로컬 폰트 추가 방법 (with Expo)
 
+<div align="right">2025.05.24</div>
+
 ## 1. .otf 폰트 파일 추가
 프로젝트 내에 assets/fonts 폴더를 생성합니다.
 

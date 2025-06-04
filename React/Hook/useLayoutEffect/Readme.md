@@ -1,5 +1,9 @@
 # useLayoutEffect
 
+<div align="right">2025.05.23</div>
+
+<br/>
+
 React의 `useLayoutEffect`는 `useEffect`와 매우 유사하지만, 실행 타이밍에서 중요한 차이가 있는 Hook입니다.
 
 ## useEffect vs useLayoutEffect 실행 타이밍

@@ -1,5 +1,9 @@
 # useEffect
 
+<div align="right">2025.05.23</div>
+
+<br/>
+
 React의 `useEffect`는 함수형 컴포넌트에서 사이드 이펙트를 처리하기 위한 Hook입니다. 컴포넌트의 생명주기와 관련된 작업을 수행할 수 있습니다.
 
 ## 기본 구조
